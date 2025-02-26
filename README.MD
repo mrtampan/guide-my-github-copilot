@@ -8,3 +8,6 @@ issue completion code php inteliphen
 - remove binding contain (cmd + I)
 - restart vscode
 
+## If error suggest completion
+edit setting github copilot
+- editor.inlineSuggest.enabled change false to true
